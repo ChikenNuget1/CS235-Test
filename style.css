@@ -5,3 +5,11 @@ body {
   background-repeat: no-repeat; /* Don’t repeat the image */
   background-attachment: fixed; /* Optional: keep background fixed on scroll */
 }
+
+.important {
+  display: none;
+}
+
+.sam {
+  font-size: 10rem;
+}
